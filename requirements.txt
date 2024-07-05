@@ -1,0 +1,11 @@
+tensorflow
+keras
+streamlit
+numpy
+pandas
+seaborn
+matplotlib
+colorama
+scikit-learn
+pickle-mixin
+transformers
