@@ -18,17 +18,15 @@ This chatbot is designed to assist users by automating responses within a Stream
 
 ## Installation
 Clone the repository and install the required packages:
-git clone https://github.com/Samspei01/Chatbot.git
-
-cd Chatbot
-
-pip install -r requirements.txt
+- git clone https://github.com/Samspei01/Chatbot.git
+- cd Chatbot
+- pip install -r requirements.txt
 
 
 ## Usage
-To run the chatbot, use the following command:
-streamlit run app.py
-Navigate to the local web URL provided by Streamlit to interact with the chatbot.
+- To run the chatbot, use the following command:
+- streamlit run app.py
+- Navigate to the local web URL provided by Streamlit to interact with the chatbot.
 
 ## How it Works
 The chatbot processes inputs using a trained model and a series of NLP techniques, predicting responses based on the input context provided by the user.
