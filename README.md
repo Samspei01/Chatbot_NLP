@@ -19,7 +19,8 @@ This chatbot is designed to assist users by automating responses within a Stream
 ## Installation
 Clone the repository and install the required packages:
 git clone https://github.com/Samspei01/Chatbot.git
-cd chatbot-streamlit
+
+cd Chatbot
 pip install -r requirements.txt
 
 
