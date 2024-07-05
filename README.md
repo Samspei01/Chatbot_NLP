@@ -1,5 +1,5 @@
 # Chatbot
-![Uploading sambot.png…]()
+![sambot](https://github.com/Samspei01/Chatbot/assets/155198764/e8434651-2f94-4466-8053-e460eb77b408)
 
 ## Description
 This chatbot is designed to assist users by automating responses within a Streamlit application. It utilizes a deep learning model to process and respond to user inquiries effectively.
