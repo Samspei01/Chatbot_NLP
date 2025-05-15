@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot_NLP
 ![sambot](https://github.com/Samspei01/Chatbot/assets/155198764/e8434651-2f94-4466-8053-e460eb77b408)
 
 ## Description
@@ -19,8 +19,8 @@ This chatbot is designed to assist users by automating responses within a Stream
 
 ## Installation
 Clone the repository and install the required packages:
-- git clone https://github.com/Samspei01/Chatbot.git
-- cd Chatbot
+- git clone https://github.com/Samspei01/Chatbot_NLP.git
+- cd Chatbot_NLP
 - pip install -r requirements.txt
 
 
